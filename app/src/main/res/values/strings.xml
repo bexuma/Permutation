@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Probability</string>
+    <string name="edit_message">Edit a Message</string>
+    <string name="button_send">Computate!</string>
+    <string name="value_of_n">Enter the value of n</string>
+    <string name="value_of_m">Enter the value of m</string>
+</resources>
