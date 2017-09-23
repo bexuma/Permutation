@@ -36,9 +36,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         long f=1;
 
         for(int i=n; i>=1; i--)
-        {
-            f*=i;
-        }
+            f *= i;
 
         return f;
     }
